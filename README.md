@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"/>
 </div>
 
-###
+
 
 <div align="center">
   <a href="[https://linkedin.com](https://www.linkedin.com/in/muhammad-ashfa-2248772a5/)" target="_blank">
@@ -23,9 +23,7 @@
 </a>
 </div>
 
----
 
-## 📊 GitHub Stats
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=just-asf&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  
@@ -34,7 +32,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
@@ -42,11 +40,3 @@
 
 </div>
 
----
-
-## 🐍 Snake Game Contribution Graph
-<div align="center">
-  
-![snake gif](https://raw.githubusercontent.com/just-asf/just-asf/output/github-contribution-grid-snake-dark.svg)
-
-</div>
